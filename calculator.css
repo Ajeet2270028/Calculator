@@ -1,3 +1,13 @@
+.calculators{
+    background-color: rgb(179, 238, 235);
+    /* align-items: center;
+    justify-content: center; */
+    /* margin-left: 200px; */
+    padding:60px 500px;
+    height: 600px;
+    width: 100%;
+}
+
 #calculator{
     border: 2px solid rgb(100, 100, 100);
     border-radius: 5px;
